@@ -1,0 +1,1 @@
+# cs6035-project-log4shell-fall24-command-steps-flag-1-6-solved
